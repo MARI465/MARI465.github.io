@@ -17,4 +17,6 @@ text-align: center;
     padding: 20px 10px;
     background: white; /* pick a color */
     border-radius: 25%;
+    overflow: hidden;
 }
+
