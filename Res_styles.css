@@ -1,5 +1,4 @@
-td b {
-  font-size: 20;
+td[colspan = "3"] b {
   display: inline-block;
   border-bottom: 2px solid black;
   padding-bottom: 4px;
