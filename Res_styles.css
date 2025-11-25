@@ -1,0 +1,6 @@
+td b {
+  font-size: 16;
+  display: inline-block;
+  border-bottom: 2px solid black;
+  padding-bottom: 4px;
+}
